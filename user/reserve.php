@@ -23,6 +23,7 @@ date_default_timezone_set("Asia/Bangkok");
                 center: 'title',
                 right: 'dayGridMonth,listWeek'
             },
+            locale: 'th',
             initialDate: date,
             editable: false,
             navLinks: true, // can click day/week names to navigate views
